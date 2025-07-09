@@ -1,0 +1,17 @@
+Algorithm,N,Time(s)
+DFS,10,0.12837696075439453
+HillClimb,10,-1
+Annealing,10,-1
+Genetic,10,0.01886296272277832
+HillClimb,30,-1
+Annealing,30,-1
+Genetic,30,-1
+HillClimb,50,-1
+Annealing,50,-1
+Genetic,50,-1
+HillClimb,100,-1
+Annealing,100,-1
+Genetic,100,-1
+HillClimb,200,-1
+Annealing,200,-1
+Genetic,200,-1
